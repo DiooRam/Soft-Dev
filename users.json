@@ -1,0 +1,24 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Joko",
+      "jenis_kelamin":"Laki-Laki",
+      "telepon":"14045"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Ucok",
+      "jenis_kelamin":"Laki-Laki",
+      "telepon":"505"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Cecep",
+      "jenis_kelamin":"Laki-Laki",
+      "telepon":"666"
+    }
+
+  
+  }
